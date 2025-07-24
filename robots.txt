@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://joyaljoy.me/sitemap.xml
